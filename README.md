@@ -13,7 +13,7 @@ _Réalisé en :_
 _Logiciel :_
 * [Atom](https://atom.io/) - Editeur de textes
 
-##Preview : 
+## Preview : 
 
 Page d'acceuil :
 ![Screen1](https://user-images.githubusercontent.com/91225522/142869173-acdc8c91-9d1b-4a38-b08f-3cfa090ddbb9.PNG)
