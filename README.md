@@ -25,4 +25,4 @@ Flux RSS de l'url 'https://www.lemonde.fr/planete/rss_full.xml' :
 - Auteur : Mateo Oudart
 - Scolarité : DUT Informatique 2ème année
 - Mail : mateooudart@gmail.com
-- LinkedIn [Mateo Oudart](https://www.linkedin.com/in/mat%C3%A9o-oudart-497a671b5/) 
+- LinkedIn : [Mateo Oudart](https://www.linkedin.com/in/mat%C3%A9o-oudart-497a671b5/) 
